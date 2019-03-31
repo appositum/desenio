@@ -1,0 +1,20 @@
+{
+  "name": "desenio",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world -backend js",
+    "server": "python3 -m http.server"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "bsb-native": "^4.0.7000"
+  },
+  "dependencies": {
+    "reprocessing": "^0.3.1"
+  }
+}

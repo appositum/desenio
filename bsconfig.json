@@ -1,0 +1,19 @@
+{
+  "name": "desenio",
+  "version": "0.1.0",
+  "sources": {
+    "dir" : "src",
+    "subdirs" : true
+  },
+  "bs-dependencies": [
+    "reprocessing"
+  ],
+  "warnings": {
+    "error" : "+101"
+  },
+  "refmt": 3,
+  "entries": [{
+    "backend": "js",
+    "main-module": "Index"
+  }]
+}

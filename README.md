@@ -1,5 +1,7 @@
 # Build
-## DON'T RUN THIBuildS IF YOU'RE EPILEPTIC
+## DON'T RUN THIS IF YOU'RE EPILEPTIC
+
+### Build
 ```bash
 yarn install
 yarn build
